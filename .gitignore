@@ -1,0 +1,3 @@
+# Los originales empresariales se conservan localmente y no se suben al repositorio.
+Docs/*
+!Docs/.gitkeep
